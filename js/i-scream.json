@@ -1,0 +1,19 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "Barrie",
+    "established": 1999,
+    "active": true,
+    "topFlavours": [{
+        "name": "Mint Chocolate",
+        "calories": 250,
+        "type": "ice-cream",
+        "ingredients": ["Milk", "Sugar", "Cocoa Powder", "Mint Extract"],
+        "image": "chocolate-mint.svg"
+    },{
+        "name": "Strawberry Sprinkle",
+        "calories": 220,
+        "type": "ice-cream",
+        "ingredients": ["Milk", "Sugar", "Strawberry Puree"],
+        "image": "strawberry-sprinkle.svg"
+    }]
+}
