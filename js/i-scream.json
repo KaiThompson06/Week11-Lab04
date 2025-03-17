@@ -8,12 +8,12 @@
         "calories": 250,
         "type": "ice-cream",
         "ingredients": ["Milk", "Sugar", "Cocoa Powder", "Mint Extract"],
-        "image": "chocolate-mint.svg"
+        "image": "https://kaithompson06.github.io/Week11-Lab04/images/chocolate-mint.svg"
     },{
         "name": "Strawberry Sprinkle",
         "calories": 220,
-        "type": "ice-cream",
+        "type": "milkshake-type ice-cream",
         "ingredients": ["Milk", "Sugar", "Strawberry Puree"],
-        "image": "strawberry-sprinkle.svg"
+        "image": "https://kaithompson06.github.io/Week11-Lab04/images/strawberry-sprinkle.svg"
     }]
 }
