@@ -15,5 +15,24 @@
         "type": "milkshake-type ice-cream",
         "ingredients": ["Milk", "Sugar", "Strawberry Puree"],
         "image": "https://kaithompson06.github.io/Week11-Lab04/images/strawberry-sprinkle.svg"
-    }]
+    },{
+        "name": "Birthday Cake",
+        "calories": 290,
+        "type": "ice-cream",
+        "ingredients": ["Milk", "Sugar", "Sprinkles", "Super Icing"],
+        "image": "https://kaithompson06.github.io/Week11-Lab04/images/ice-cream-xtra1.svg"
+    },{
+        "name": "Chocolicious",
+        "calories": 245,
+        "type": "milkshake-type ice-cream",
+        "ingredients": ["Milk", "Sugar", "Chocolate Chunks", "Cocoa Powder", "Chocolate Syrup"],
+        "image": "https://kaithompson06.github.io/Week11-Lab04/images/ice-cream-xtra2.svg"
+    },{
+        "name": "Peach Mango",
+        "calories": 170,
+        "type": "ice-cream",
+        "ingredients": ["Milk", "Sugar", "Peach Puree", "Mango Puree", "Fruit Syrup"],
+        "image": "https://kaithompson06.github.io/Week11-Lab04/images/peach-mango.svg"
+    }
+    ]
 }
